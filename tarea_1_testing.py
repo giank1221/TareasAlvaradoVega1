@@ -3,7 +3,7 @@ import random
 import string
 import pytest
 
-# Codigos de retorno esperados
+# Codigos de retorno esperadosas
 # Caso de éxito => 0
 
 # Errores esperados metodo de separar letras
